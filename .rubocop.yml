@@ -7,3 +7,6 @@ Style/Documentation:
 
 Style/FrozenStringLiteralComment:
   Enabled: false
+
+Rails/CreateTableWithTimestamps:
+  Enabled: false
